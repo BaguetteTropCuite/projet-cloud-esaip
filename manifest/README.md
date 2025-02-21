@@ -1,3 +1,3 @@
 # Manifest
 
-Ici ajoutez le ou les manifest
+Ici ajoutez le ou les manifests
